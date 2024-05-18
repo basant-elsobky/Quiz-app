@@ -6,7 +6,7 @@ Frontend: HTML, CSS, JavaScript (React.js), Next.js
 # Setup
 Clone the Repository:bash
 Copy code
-git clone https://github.com/your-username/quiz-app.git
+git clone https://github.com/basant-elsobky/Quiz-app.git
 # Demo
 You can view a live demo of the App here https://quiz-app2-kappa.vercel.app/
 # Contributing
